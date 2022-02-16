@@ -1,0 +1,15 @@
+.background {
+  background-image: url("../img/login-bg.jpg");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+
+.login-form {
+  border-radius: 0.5rem;
+}
+
+img.logo {
+  height: 145px;
+  margin-left: auto;
+  margin-right: auto;
+}
